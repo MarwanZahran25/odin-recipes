@@ -1,3 +1,14 @@
 *{
-    color:red;
+    text-align: center;
+
+}
+.title{
+    font-size: 80px;
+    color: rgb(63, 82, 94);
+    font-style: italic;
+    
+}
+.recipelink{
+    font-size: 40px;
+    color: rgb(37, 22, 5);
 }
